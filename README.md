@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jumkos
-- 👀 I’m interested in Java, Kontlin, Golang, Laravel
-- 🌱 I’m currently learning Kontlin, Golang, Laravel
+- 👀 I’m interested in Java, Kontlin, Golang, Angular
+- 🌱 I’m currently learning Kontlin, Golang, Angular
 
 <!---
 jumkos/jumkos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
